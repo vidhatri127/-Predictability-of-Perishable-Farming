@@ -1,0 +1,13 @@
+{
+    "day1": "sunny",
+    "day2": "sunny",
+    "day3": "partly_cloudy",
+    "day4": "cloudy",
+    "day5": "rain",
+    "day6": "sunny",
+    "day7": "sunny",
+    "temperature_max": 32,
+    "temperature_min": 22,
+    "humidity": 65,
+    "source": "fallback"
+}
